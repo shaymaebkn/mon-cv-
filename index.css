@@ -10,9 +10,8 @@ li {
     width: 50%;
     height: 200px;
 }
-#swit{
-    margin-left: 1000px;
-    border-radius: 50px;
-    background-color: black;
+a{
+    text-decoration: none;
     color: white;
 }
+
